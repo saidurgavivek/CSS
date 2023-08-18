@@ -1,0 +1,5 @@
+div{
+	background-image: url('hello.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}

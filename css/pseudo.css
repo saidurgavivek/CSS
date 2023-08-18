@@ -1,0 +1,13 @@
+a:link{
+	color: black;
+}
+a:hover{
+	color: darkred;
+	font-size: 45px;
+}
+a:visit{
+	color: ;
+}
+a:active{
+	color: yellow;
+}
